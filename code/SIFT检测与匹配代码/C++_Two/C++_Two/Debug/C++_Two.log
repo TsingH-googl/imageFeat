@@ -1,0 +1,38 @@
+﻿生成启动时间为 2018/5/10 16:26:08。
+     1>项目“D:\Visual studio\User_Projects\C++_Two\C++_Two\C++_Two.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (C++_Two.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt car_detector.cpp estimate_Density.cpp main.cpp randomWalk.cpp
+         main.cpp
+     1>d:\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\visual studio\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>d:\visual studio\user_projects\c++_two\c++_two\main.cpp(102): warning C4101: “stacked_ransac”: 未引用的局部变量
+     1>d:\visual studio\user_projects\c++_two\c++_two\main.cpp(102): warning C4101: “stacked”: 未引用的局部变量
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         randomWalk.cpp
+         estimate_Density.cpp
+         car_detector.cpp
+       Link:
+         D:\Visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual studio\User_Projects\C++_Two\Debug\SIFT.exe" /INCREMENTAL /NOLOGO opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib "glib-2.0.lib" "gtk-win32-2.0.lib" "gdk-win32-2.0.lib" "gobject-2.0.lib" "gdk_pixbuf-2.0.lib" "gthread-2.0.lib" "gmodule-2.0.lib" "pango-1.0.lib" intl.lib "atk-1.0.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual studio\User_Projects\C++_Two\Debug\SIFT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual studio\User_Projects\C++_Two\Debug\SIFT.lib" /MACHINE:X86 Debug\getopt.obj
+         Debug\imgfeatures.obj
+         Debug\kdtree.obj
+         Debug\match.obj
+         Debug\minpq.obj
+         Debug\sift.obj
+         Debug\utils.obj
+         Debug\xform.obj
+         Debug\car_detector.obj
+         Debug\estimate_Density.obj
+         Debug\main.obj
+         Debug\mystitcher.obj
+         Debug\opengl.obj
+         Debug\randomWalk.obj
+         Debug\red_area_count.obj
+         Debug\toushelv.obj
+         C++_Two.vcxproj -> D:\Visual studio\User_Projects\C++_Two\Debug\SIFT.exe
+     1>已完成生成项目“D:\Visual studio\User_Projects\C++_Two\C++_Two\C++_Two.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.89
