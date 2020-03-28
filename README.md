@@ -12,6 +12,6 @@ and then click on the  .mp4 files.
 ![image](https://github.com/TsingH-googl/imageFeat/blob/master/feature_detection.JPG)
 
 2、The image stitching comparisons  before and after dehaze（去雾前后图像拼接的对比）
-![image](https://github.com/TsingH-googl/imageFeat/blob/master/stitching_haze.JPG) ![image](https://github.com/TsingH-googl/imageFeat/blob/master/stitching_dehaze.JPG)
+![image](https://github.com/TsingH-googl/imageFeat/blob/master/stitchinging_haze.JPG) ![image](https://github.com/TsingH-googl/imageFeat/blob/master/stitchinging_dehaze.JPG)
 
 Thanks and best wishes. If you have any questions about the project please feel free to contact me at xurongqin2018@email.szu.edu.cn.
